@@ -1,4 +1,4 @@
 <!---![Mo Sorkhpar](https://github.com/msorkhpar/msorkhpar/raw/main/Who-I-am.png)-->
-![Mo Sorkhpar](./Who-I-am.gif)
+![Mo Sorkhpar](./Who-I-am-large.gif)
 
 ### Hi there 👋
